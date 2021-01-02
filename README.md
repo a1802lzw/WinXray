@@ -1,6 +1,8 @@
 # WinXray
 科学上网工具 tools
-donwload : https://github.com/xiamenhappy/winXray-1/raw/master/release/winXray.7z
+donwload : winXray.zip
+or donwload : https://github.com/xiamenhappy/winXray-1/raw/master/release/winXray.7z (需要科学上网)
+
 
 # how to use
 
